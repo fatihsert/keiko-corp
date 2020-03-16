@@ -1,2 +1,3 @@
-# keiko-corp
-The greatest company ever created
+performance test
+https://www.webpagetest.org/
+https://developers.google.com/speed/pagespeed/insights/
